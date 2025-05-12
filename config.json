@@ -36,7 +36,7 @@
   },
   "adminBot": [
     "",
-    "100090678916405"
+    "61568047673460"
   ],
   "whiteListMode": {
     "enable": false,
@@ -45,7 +45,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Naruto",
+  "nickNameBot": "YUNG ZHEN",
   "prefix": "/",
   "BaYjidnapi": "",
   "api": "",
